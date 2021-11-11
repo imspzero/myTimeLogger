@@ -20,6 +20,11 @@ A cross-platform, GitHub-based time tracker powered by Flutter. It can be used a
   4. Use the above information to access the GitHub API. After all, the data itself is not complicated and huge.
 * I am too lazy, and choose to store the data using [issues](https://docs.github.com/en/rest/reference/issues). In this way, the repo might look messy, but it should be fine because it is a private repo and no one can see it. I assume a user only has a few thousand records per year.
 
+## Limitations
+* There is [rate limiting](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting) imposed on GitHub APIs.
+* I don't expect the user to click or swipe the screen frequently.
+* My expectation would be a few actions to be performed per minute, according to the fact that we can make up to 30 requests per minute for the [Search API](https://docs.github.com/en/rest/reference/search#rate-limit).
+
 ## Source Code
 * It is not in the stable state right now. Only 40% of functionalities are implemented at the moment. 
 
