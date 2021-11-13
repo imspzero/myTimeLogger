@@ -2,7 +2,7 @@
 A cross-platform, GitHub-based time tracker powered by Flutter. It can be used as a logger or a journal.
 
 ## Inspiration
-* I fell in love with this app named [iTodayss](https://github.com/Yaohong9257/iTodaysshttps://github.com/Yaohong9257/iTodayss) a few years ago. As far as I know, it is the best time management app. Unfortunately, it only supports Android, and this makes it inconvenient for computer-based scenarios. This app is only a simple copy of **iTodayss**, honor to [Yaohong9257](https://github.com/Yaohong9257).
+* I fell in love with this app named [iTodayss](https://github.com/Yaohong9257/iTodayss) a few years ago. As far as I know, it is the best time management app. Unfortunately, it only supports Android, and this makes it inconvenient for computer-based scenarios. This app is only a simple copy of **iTodayss**, honor to [Yaohong9257](https://github.com/Yaohong9257).
 * This book [time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) talked me into adopting the habit of time tracking. From this book I knew *Aleksandr Lyubishchev*. 
 * "Carpe diem. Seize the day." - [Dead Poets Society](https://www.youtube.com/watch?v=vi0Lbjs5ECI)
 
